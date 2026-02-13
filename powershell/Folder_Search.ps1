@@ -1,4 +1,4 @@
-$paths = "Path1","Path2"
+$paths = "Path1","Path2" # Enter the paths to your two directories here.
 
 while ($true) {
 
@@ -19,3 +19,4 @@ while ($true) {
         break
         }
     }
+
